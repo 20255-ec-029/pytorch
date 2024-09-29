@@ -1,0 +1,7 @@
+nltk
+spacy
+transformers
+sentencepiece
+torch==2.0.1
+torchtext==0.15.2
+torchdata==0.6.1
