@@ -1,7 +1,8 @@
-nltk
-spacy
-transformers
-sentencepiece
+nltk==3.9.1
+spacy==3.7.6
+transformers==4.45.1
+sentencepiece==0.2.0
 torch==2.0.1
 torchtext==0.15.2
 torchdata==0.6.1
+pandas==2.2.3
